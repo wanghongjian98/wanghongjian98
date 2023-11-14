@@ -1,6 +1,8 @@
 ### Hi there 👋
 -🔭 I’m currently working on event camera, low-level vision, image reconstruction. 
 
+- 🌱 I’m currently learning more about Deep Learning, Fourier Optics. My lifelong goal is to become an expert in Computational Imaging. 
+
 -📫 How to reach me: wanghon@ethz.ch
 
 
