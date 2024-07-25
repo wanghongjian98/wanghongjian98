@@ -1,7 +1,7 @@
 ### Hi there 👋
 -🔭 My current PhD project on event camera, low-level vision, slice/tomogram reconstruction. 
 
--🌱 I’m currently working more about Deep Learning, Fourier Optics, Tomography. My lifelong goal is to become an expert in Computational Imaging. 
+-🌱 Interested in Deep Learning, Fourier Optics, Tomography. My lifelong goal is to become an expert in Computational Imaging. 
 
 -📫 How to reach me: wanghon@ethz.ch
 
