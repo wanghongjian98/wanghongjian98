@@ -1,5 +1,5 @@
 ### Hi there 👋
--🔭 I’m currently working on event camera, low-level vision, image reconstruction. 
+-🔭 My current PhD project on event camera, low-level vision, slice/tomogram reconstruction. 
 
 -🌱 I’m currently working more about Deep Learning, Fourier Optics, Tomography. My lifelong goal is to become an expert in Computational Imaging. 
 
